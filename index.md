@@ -1,6 +1,5 @@
 ---
+layout: post
 ---
-
-@import "{{ site.theme }}";
 
 Test text
